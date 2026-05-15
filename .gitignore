@@ -1,0 +1,9 @@
+#= ASSETS
+assets/*
+!assets/dist
+
+#= FILES
+*.pug
+*.html
+!index.html
+prepros.config
