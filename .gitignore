@@ -1,6 +1,7 @@
 #= ASSETS
 assets/*
 !assets/dist
+!assets/fonts
 
 #= FILES
 .DS_Store
