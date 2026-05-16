@@ -5,6 +5,8 @@ Fine Custom Jewelry
 - Plataforma: Shopify
 
 ## Architecture
+- Home
+- Error 404
 
 ## Navegación
 
@@ -18,5 +20,6 @@ Fine Custom Jewelry
 - Products
 - Categories
 - Mix and Match
+- Piezas personalizadas
 - About
 - Instagram

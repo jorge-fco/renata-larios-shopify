@@ -3,6 +3,7 @@ assets/*
 !assets/dist
 
 #= FILES
+.DS_Store
 *.pug
 *.html
 !index.html
