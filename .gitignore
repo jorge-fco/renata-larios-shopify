@@ -2,6 +2,8 @@
 assets/*
 !assets/dist
 !assets/fonts
+!assets/images
+!assets/videos
 
 #= FILES
 .DS_Store
