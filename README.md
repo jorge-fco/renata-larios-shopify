@@ -6,13 +6,14 @@ Fine Custom Jewelry
 
 ## Architecture
 - Home
+- Collection
 - Error 404
 
 ## Navegación
 
 ## Features
-- [ ] Botón de WhatsApp flotante
-- [ ] Follow en Instagram
+- [ x ] Botón de WhatsApp flotante
+- [ x ] Follow en Instagram
 - [ ] Text marquee
 
 ### Home

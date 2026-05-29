@@ -10,4 +10,5 @@ assets/*
 *.pug
 *.html
 !index.html
+!collection.html
 prepros.config
