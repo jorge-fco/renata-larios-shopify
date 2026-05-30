@@ -7,6 +7,7 @@ Fine Custom Jewelry
 ## Architecture
 - Home
 - Collection
+- Product
 - Error 404
 
 ## Navegación
@@ -24,3 +25,8 @@ Fine Custom Jewelry
 - Piezas personalizadas
 - About
 - Instagram
+
+### Product
+- Information
+- Related
+- Inspiration
