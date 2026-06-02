@@ -11,4 +11,8 @@ assets/*
 *.html
 !index.html
 !collection.html
+!collections.html
+!product.html
+!customized.html
+!mix-match.html
 prepros.config
