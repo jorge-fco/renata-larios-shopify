@@ -6,7 +6,9 @@ Fine Custom Jewelry
 
 ## Architecture
 - Home
+- About
 - Collection
+- Collections
 - Product
 - Error 404
 
@@ -15,7 +17,7 @@ Fine Custom Jewelry
 ## Features
 - [ x ] Botón de WhatsApp flotante
 - [ x ] Follow en Instagram
-- [ ] Text marquee
+- [ x ] Text marquee
 
 ### Home
 - Hero

@@ -10,6 +10,7 @@ assets/*
 *.pug
 *.html
 !index.html
+!about.html
 !collection.html
 !collections.html
 !product.html
