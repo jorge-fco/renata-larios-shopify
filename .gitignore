@@ -11,6 +11,9 @@ assets/*
 *.html
 !index.html
 !about.html
+!aretes.html
+!collares.html
+!brazaletes.html
 !collection.html
 !collections.html
 !products.html
